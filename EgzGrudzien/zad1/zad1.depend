@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1677151126 source:c:\users\anonymus\documents\egzgrudzien\zad1\zad1.cpp
+	<iostream>
+	<fstream>
+
+1677152659 source:c:\users\anonymus\documents\egzgrudzien\zad1\zad1-1.cpp
+	<iostream>
+	<fstream>
+	<string>
+
+1677151455 source:c:\users\anonymus\documents\egzgrudzien\zad1\zad1-2.cpp
+	<iostream>
+	<fstream>
+	<string>
+
