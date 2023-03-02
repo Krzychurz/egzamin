@@ -1,0 +1,2 @@
+a) N = 20 wynosi 19 strzałek
+b) dla dowolnego N wynosi N-1

@@ -1,0 +1,1 @@
+Dla N = 2047 ilość strzałek wynosi 10
