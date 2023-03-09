@@ -36,7 +36,7 @@ int main()
         }
     }
 
-    cout << "Odpowiedz: " << znak << ' ' << a << ':' << b << endl;
+    cout << "Odpowiedz: " << znak << ' ' << b << ':' << a << endl;
     plik.close();
     return 0;
 }
